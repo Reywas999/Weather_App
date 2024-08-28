@@ -6,9 +6,10 @@ Requisites:
 4) requests (library)
 5) geopy (library)
 \
+\
 Simple weather app to find weather conditions for an input city or your current location.\
 Data retrieved from: https://home.openweathermap.org \
-(I've just realized I've been retrieving 
+(I've just realized I've been retrieving 3-hour forecasts rather than daily by accident -- easy fix)
 \
 \
 After retrieving an API key, simply insert it into the script at the top of the document in place of 'YOURAPIKEY'.\
